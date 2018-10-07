@@ -2,7 +2,7 @@
 The project aims to model Knearest neighbors from scratch on 2-dimensional data. The default value of k is set to be 3. 
 The value used for k in the project is 5<br />
 Eucladian distance is used to make the K-nn model<br />
-Data set used is Breast Cancer Wisconsin (Original) Data Set.
+Data set used is Breast Cancer Wisconsin (Original) DataSet (https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)).
 
 
 ## Results
